@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Признания Ахтубинска</string>
+    <string name="action_settings">О паблике</string>
+    <integer name="com_vk_sdk_AppId">6493439</integer>
+    <string name="action_about_me">О программе</string>
+    <string name="anon">Анонимно</string>
+    <string name="send">Отправить</string>
+    <string name="logout">Выйти из аккаунта</string>
+</resources>

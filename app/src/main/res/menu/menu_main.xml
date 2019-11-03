@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.matrixsoft.pison.pa.MainActivity">
+    <item
+        android:id="@+id/abouMe"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/update"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/logout_action"
+        android:title="@string/logout" />
+</menu>
